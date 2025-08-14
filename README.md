@@ -29,14 +29,7 @@ This project is inspired by the Frontend Mentor challenge and focuses on buildin
 1. **Clone this repository**
    ```bash
    git clone https://github.com/your-username/four-card-feature-section.git
-
 2. Open index.html in your browser.
-
-📱 Responsive View
-
-Desktop layout: 3-column card alignment
-
-Mobile layout: Stacked single-column cards
 
 ## 🎯 What I Learned
     How to use Flexbox for complex layouts
