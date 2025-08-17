@@ -36,5 +36,5 @@ This project is inspired by the Frontend Mentor challenge and focuses on buildin
     How to make layouts responsive with media queries
     Styling cards with box-shadows and borders for better UI
 
-## 🔗 Live Demo:
+## 🔗 Live Demo: https://project-four-card-feature-section.netlify.app/
 
