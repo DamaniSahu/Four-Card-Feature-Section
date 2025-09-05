@@ -29,7 +29,7 @@ This project is inspired by the Frontend Mentor challenge and focuses on buildin
 ## 💡 How to Use
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/four-card-feature-section.git
+   git clone https://github.com/DamaniSahu/Four-Card-Feature-Section.git
 2. Open index.html in your browser.
 
 ## 🎯 What I Learned
